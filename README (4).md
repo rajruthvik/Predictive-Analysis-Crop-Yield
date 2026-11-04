@@ -53,7 +53,7 @@ All use `random_state=42`. Linear, Polynomial and MLP use standardised inputs (s
 
 MAE and RMSE are in tonnes per hectare.
 
-## Key findings
+## Key findings ##
 
 - **Gradient Boosting is best**, but simple Linear Regression is only 0.035 R² behind. More complexity did not pay much.
 - **Random Forest overfits:** R² of 0.949 on training data versus 0.504 on test data.
