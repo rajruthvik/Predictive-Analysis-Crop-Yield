@@ -1,10 +1,10 @@
-# Rice Yield Prediction using Government Crop Data (APY)
+# Rice Yield Prediction using Government Crop Data (APY) 
 
 Predicting the rice yield (tonnes per hectare) of Indian districts from **state, season, cultivated area and year**, and comparing six machine learning models. Built for a Predictive Analytics course at Lovely Professional University.
 
 **Full write-up:** [`Rice_Yield_Report.pdf`](Rice_Yield_Report.pdf) (6-page IEEE-style report)
 
-## Overview
+## Overview ##
 
 - **Data:** Area, Production and Yield (APY) crop statistics published by the Government of India (data.gov.in). Only this one dataset is used.
 - **Raw size:** 345,336 records, 8 columns, 1997-2020.
