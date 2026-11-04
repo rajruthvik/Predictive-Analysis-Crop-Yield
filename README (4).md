@@ -12,7 +12,7 @@ Predicting the rice yield (tonnes per hectare) of Indian districts from **state,
 - **Task:** regression, predict `Yield` (t/ha).
 - **Evaluation:** time-based split. Train on 1997-2014 (15,984 records), test on 2015-2019 (5,356 records), so the scores measure prediction of unseen later years.
 
-## Pipeline
+## Pipeline ##
 
 | Step | What happens | Rows left |
 |---|---|---|
